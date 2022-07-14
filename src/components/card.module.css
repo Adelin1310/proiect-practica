@@ -1,0 +1,20 @@
+.cardmain{
+    display: flex;
+    flex-direction: column;
+
+    background-color: transparent;
+    border-radius: 1%;
+    
+    margin-bottom: 10px;
+    padding: 5px;
+
+    width: 50%;
+    
+    color:#66fcf1;
+    border: 0.1px solid #66fcf1;
+    
+    align-items: center;
+    
+    font-family: 'JetBrains Mono script=latin rev=2', monospace;
+    font-size: 1rem;
+}

@@ -1,0 +1,18 @@
+.mainpage{
+    margin: 0px;
+    margin-top: 10px;
+    
+    height: fit-content;
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+
+    animation: enter 2s forwards;
+}
+
+@keyframes enter{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
